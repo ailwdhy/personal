@@ -1,17 +1,7 @@
-# personal
+I am Ailed Citlalli Durán de la Rosa, a 17-year-old student passionate about programming and technology.
 
-Soy Ailed Citlalli Durán de la Rosa, una estudiante de 17 años apasionada por la programación y la tecnología.
+I am currently in the fourth semester of my Technical Programming career at CECYT 9 "Juan de Dios Bátiz", where I am part of the Technical Advisory Council representing the Programming Students. I also joined the Robotics Club, where I develop programming skills and am currently participating in two scientific proyects: a Delfín Project at UNIVA and a SIP project.
 
-Actualmente, estoy en el cuarto semestre de mi carrera como Técnica en Programación en el CECYT 9 "Juan de Dios Bátiz", donde mantengo un promedio destacado de 9.0.
+I find the possibilities in this area fascinating and enjoy collaborating in a team, considering myself an empathetic person who works on innovative solutions with a positive societal impact.
 
-Nací el 2 de abril de 2007 en la Ciudad de México, soy hija de Delia de la Rosa Rojas y Oscar Durán Vázquez, ambos ingenieros en sistemas, quienes desde temprana edad han cultivado en mí el interés por el entorno STEAM y la tecnología.
-
-Me he destacado por mi rendimiento académico, obteniendo un promedio de 9.9 en la secundaria. Desde mis años de primaria, logré el primer lugar en la Olimpiada del Conocimiento a Nivel Zona, fui abanderada de mi escuela durante tres años consecutivos y gané tres concursos de Spelling Bee en inglés.
-
-En mi escuela actual, el Centro de Estudios Científicos y Tecnológicos No. 9, formo parte del Consejo Técnico Consultivo Escolar representando a los Alumnos de Programación. También me uní al Club de Robótica, donde desarrollo habilidades en programación.
-
-Encuentro fascinantes las posibilidades que ofrece esta profesión y disfruto colaborar en equipo, ya que me considero una persona empática que busca soluciones innovadoras que tengan un impacto positivo en la sociedad.
-
-En mi tiempo libre, disfruto jugando básquetbol, explorando temas de psicología, leyendo libros y explorando el arte, asistiendo a museos, composiciones  y obras de teatro, entre otras actividades.
-
-Aspiro a estudiar Ciencia de Datos en la Escuela Superior de Computación del Instituto Politécnico Nacional. Después de graduarme, mi objetivo es adquirir experiencia trabajando en empresas reconocidas dentro de una industria que me apasione, para posteriormente empezar una asociación propia. Disfruto del aprendizaje continuo y planeo participar en capacitaciones y seminarios sobre temas que me interesen. Además, me gustaría conocer diversos países y culturas, a la par de aprender idiomas diferentes al mío.
+Encouraged by my parents, both system engineers, I have developed a strong interest in STEAM. I achieved an average of 9.9 in middle school and excelled in various competitions in elementary school, including first place in the Knowledge Olympiad at the Zone level, serving as my school's flag bearer for three years, and winning three English Spelling Bee contests.
